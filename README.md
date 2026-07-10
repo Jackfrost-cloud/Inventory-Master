@@ -95,3 +95,6 @@ Your Name
 ### Version 3.0
 - ⏳ Global item search
 - ⏳ Advanced configuration options
+
+### The mod is not finish
+I doesn't want to finish it so if someone want to finish it it's for you.
