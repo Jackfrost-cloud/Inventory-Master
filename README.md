@@ -73,7 +73,7 @@ MIT License
 
 ## 👤 Author
 
-Your Name
+Your Jackfrost
 
 ---
 
