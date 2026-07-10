@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "inventory-master",
+  "version": "${version}",
+  "name": "Inventory Master",
+  "description": "Simplify inventory and storage management with automatic sorting, favorite slots, and smart organization.",
+  "authors": [
+    "Your Name"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com",
+    "sources": "https://github.com/yourusername/inventory-master"
+  },
+  "license": "MIT",
+  "icon": "assets/inventory-master/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.inventorymaster.InventoryMasterMod"
+    ]
+  },
+  "mixins": [
+    "inventory-master.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "fabric": "*",
+    "minecraft": "~1.21.11"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
