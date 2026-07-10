@@ -97,4 +97,4 @@ Your Name
 - ⏳ Advanced configuration options
 
 ### The mod is not finish
-I doesn't want to finish it so if someone want to finisht it's for you.
+I doesn't want to finish it so if someone want to finish it it's for you.
